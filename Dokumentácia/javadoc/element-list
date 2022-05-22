@@ -1,0 +1,10 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.dominikpall.todoapplication.adapter/RecyclerViewAdapter.ViewHolder///PointingToDeclaration/com/dominikpall/todoapplication/adapter/RecyclerViewAdapter.ViewHolder.html
+com.dominikpall.todoapplication
+com.dominikpall.todoapplication.adapter
+com.dominikpall.todoapplication.data.task
+com.dominikpall.todoapplication.data.user
+com.dominikpall.todoapplication.model
+com.dominikpall.todoapplication.util
+
